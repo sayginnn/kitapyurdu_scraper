@@ -26,3 +26,28 @@ Teknik Özellikler
 
 Geliştirme Notu
   * Bu proje, kod verimliliğini artırmak ve modern yazılım araçlarını deneyimlemek amacıyla **Yapay Zeka (AI) asistanı desteğiyle** geliştirilmiştir.
+=======================================================================
+
+    OUTPUT
+    ------
+
+    PS C:\Users\saygi\OneDrive\Masaüstü\EXERCISE> py v3final_project.py
+Siteye bağlanılıyor: https://www.kitapyurdu.com/cok-satan-kitaplar/haftalik/1.html...
+
+✅ Bağlantı Başarılı! Liste temizleniyor ve yazdırılıyor:
+
+--------------------------------------------------
+1. Bekle Beni
+2. Altı Harfli Bir Tatlı
+3. Bahçıvan ve Ölüm
+4. Şifayı Kaptık Hastanesi
+5. Yaşamak
+6. Annemin Uyurgezer Geceleri
+7. Algernon'a Çiçekler
+8. Telefon Melefon Yok
+9. Gece Yarısı Kütüphanesi
+10. Söyleme Bilmesinler
+--------------------------------------------------
+
+--- Program Bitti ---
+PS C:\Users\saygi\OneDrive\Masaüstü\EXERCISE> 
